@@ -1,1 +1,2 @@
-# dynamic-blog-website
+Assignment # 3.
+Create a blogpage.
