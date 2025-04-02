@@ -1,0 +1,4 @@
+1. Build a Basic HTML page.
+2. Add a Background/header footer and title etc.
+3. Add CRUD operations.
+4. Implement responsive design.
